@@ -1,4 +1,4 @@
-# -Streamlining-the-Customer-Grievance-Process
+# Streamlining-the-Customer-Grievance-Process
 ## Context:
 As a data scientist working for the front office of a major American multinational bank, you are responsible for enhancing customer service and ensuring compliance with financial regulations. Your current assignment involves analysing the customer complaints the bank has received over the past year.
 
